@@ -1,0 +1,2 @@
+list=["Hello"]
+print(list)

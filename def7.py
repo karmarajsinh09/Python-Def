@@ -1,0 +1,11 @@
+set={"This","is","second","set"}
+print("this is simple set",set)
+set.add("for")
+set.add("python")
+print("After Adding Value:",set)
+set.remove("python")
+print("Remove Element",set)
+set.discard("for")
+print("Discard Element : ",set)
+set.clear()
+print("Clear function:",set)
